@@ -11,6 +11,14 @@ website:
         text: About Me
       - href: publications.qmd
         text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: fieldwork.qmd
+        text: Fieldwork
+      - href: museum.qmd
+        text: Museum Work
+
+      
 
 format:
   html:
