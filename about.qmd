@@ -3,7 +3,7 @@ title: "About"
 ---
 
 ```{r, echo = FALSE, out.width = "1000px"}
-knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/campana.png")
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/sunset.png")
 ```
 
 I am a **bioarchaeologist** and **mortuary archaeologist**, with particular focus in **coastal communities in the Andes** pre-colonization. Currently, I am a Visiting Assistant Professor of Anthropology at Brown University, and on the Editorial Board of *Andean Past*.
