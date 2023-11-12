@@ -8,7 +8,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru2.png")
 
 Como parte de mi compromiso con la práctica arqueológica equitativa, yo (y mis coautores) nos esforzamos por proporcionar traducciones al español de nuestras publicaciones académicas para que la investigación sea accesible para aquellos que son mínimamente monolingües en español. A continuación se pueden encontrar PDFs o enlaces a materiales complementarios para cada artículo.
 
-As part of my commitment to equitable archaeological practice, I (and my coauthors) endevor to provide Spanish-language translations for our academic publications to make the research accessible to those who are minimally Spanish monolingual. PDF files, or links to supplementary materials for each article can be found below.
+As part of my commitment to equitable archaeological practice, I (and my coauthors) endeavor to provide Spanish-language translations for our academic publications to make the research accessible to those who are minimally Spanish monolingual. PDF files, or links to supplementary materials for each article can be found below.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

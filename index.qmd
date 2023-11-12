@@ -55,4 +55,4 @@ Finalmente, me comprometo a hacer que mi trabajo sea accesible en inglés y espa
 
 <br><br><br>
 
-This website was [coded in Posit](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince
+This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince
