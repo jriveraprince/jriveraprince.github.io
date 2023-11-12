@@ -13,7 +13,7 @@ title: "Home"
 **Editorial Board**, *Andean Past*
 :::
 
-::: {.column width="15%"}
+::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
@@ -23,7 +23,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/JARP_Headshot.j
 :::
 :::
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Hi, my name is Jordi Rivera Prince and I am currently a Visiting Assistant Professor in the Department of Anthropology at Brown University. My expertise lies in bioarchaeology, the archaeology of Andean South America, and social inequality, with further interests in contemporary archaeological theory, feminist archaeology, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research in the Andes region of Peru.
 
