@@ -2,14 +2,13 @@
 title: "Home"
 ---
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="50%"}
-**Jordi A. Rivera Prince**
+<br>
 
-**Visiting Assistant Professor**
+# **Jordi A. Rivera Prince**
 
-Department of Anthropology, Brown University
+**Visiting Assistant Professor** Department of Anthropology, Brown University
 
 **Editorial Board**, *Andean Past*
 :::
@@ -22,8 +21,7 @@ Department of Anthropology, Brown University
 knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/JARP_Headshot.jpg")
 ```
 :::
-::::
-
+:::
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

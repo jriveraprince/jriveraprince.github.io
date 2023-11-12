@@ -16,11 +16,9 @@ website:
         text: Projects
       - href: article_translations.qmd
         text: Traducciones en Español
+  google-analytics: "G-4H3MYWQGNG"
         
-
-
-      
-
+        
 format:
   html:
     theme: minty
