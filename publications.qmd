@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/campana.png")
+```
+
 ## Papers
 
 **Rivera Prince, Jordi A.** and Amanda Brock Morales. (*in press*). Backdirting: Theorizing Backdirt through Time and Place. *Journal of Field Archaeology.* Special Issue "On Backdirt." Allison Mickell and Christine Luke (editors). Invited Paper. (*peer reviewed*)
