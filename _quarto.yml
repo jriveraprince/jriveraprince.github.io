@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "jriveraprince"
@@ -13,10 +14,10 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
-      - href: fieldwork.qmd
-        text: Fieldwork
-      - href: museum.qmd
-        text: Museum Work
+      - href: article_translations.qmd
+        text: Traducciones en Español
+        
+
 
       
 

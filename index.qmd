@@ -1,11 +1,40 @@
 ---
-title: "Jordi A. Rivera Prince"
+title: "Home"
 ---
 
-This is a Quarto website.
+:::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="50%"}
+**Jordi A. Rivera Prince**
 
-```{r}
-1 + 1
+**Visiting Assistant Professor**
+
+Department of Anthropology, Brown University
+
+**Editorial Board**, *Andean Past*
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+```{r, echo = FALSE, out.width = "250px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/JARP_Headshot.jpg")
 ```
+:::
+::::
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Hi, my name is Jordi Rivera Prince and I am currently a Visiting Assistant Professor in the Department of Anthropology at Brown University. My expertise lies in bioarchaeology, the archaeology of Andean South America, and social inequality, with further interests in contemporary archaeological theory, feminist archaeology, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research in the Andes region of Peru.
+
+My work is founded on two interrelated objectives: 1) to better address inequality in the present, we need to understand its manifestations in the past, and 2) we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice.
+
+You can learn more about me here.
+
+To learn more about my ongoing projects, please read further here.
+
+If you would like to see my published work, a compiled list can be found here.
+
+Finally, I am committed to making my work accessible in English and in Spanish. You can find Spanish-language translations to my publications here.

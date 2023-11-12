@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+I am a bioarchaeologist and mortuary archaeologist, with particular focus in coastal communities in the Andes pre-colonization. Currently, I am a Visiting Assistant Professor of Anthropology at Brown University, and on the Editorial Board of *Andean Past*.
 
-```{r}
-1 + 1
-```
+I received my M.A. in Anthropology (2020), and a Ph.D. in Anthropology (2023) from the University of Florida, as a National Science Foundation Graduate Research Fellow (2019-2023), and National Academies of Science, Engineering, and Medicine Ford Predoctoral Fellow (2019-2023). I am also a Registered Professional Archaeologist (#18386).
+
+My research and publications address coastal fishing communities on the North Coast of Perú, Salinar, the Early Horizon/Final Formative Period, and the emergence of social inequality, materiality of the body, critical knowledge production, and equity issues in archaeological practice.
+
+After receiving my B.A. (2016) in Anthropology from the University of Pennsylvania, I worked in the Physical Anthropology Section of the Smithsonian National Museum of Natural History (2016-2017) as a Smithsonian Minority Intern, and then converted to a contractor for the office of Dr. Doug Owsley. Following my year working in DC, I completed a Fulbright Open Research Fellowship to Perú (2017-2018) where I was affiliated with the Facultad de Arqueología de la Universidad Nacional de Trujillo---a collaboration I continue today.
+
+My dissertation is a bioarchaeological and mortuary archaeology study of a Salinar cemetery (ca. 400-200 BCE), excavated in Huanchaco, Moche Valley, Perú. This study contributes the largest bioarchaeological analysis of Salinar individuals to date, as well as the first comprehensive combined mortuary and bioarchaeolgical analysis of a Salinar community. The findings directly inform our understanding of Salinar, life following the collapse of Chavín, life and death in coastal fishing communities, and the emergence of social inequality in Perú.
+
+Finally, I am deeply committed to addressing equity issues in archaeological and bioarchaeological practice, critically evaluating our methods, and diversifying archaeological practice. My newest project, in the Virú Valley, is founded on the principles of community-based archaeology.
+
+You can find a current version of my CV here.

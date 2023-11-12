@@ -54,3 +54,8 @@ rsconnect/
 fellowships.qmd
 museum.qmd
 fieldwork.qmd
+fellowships.html
+museum.html
+fieldwork.html
+
+.DS_Store
