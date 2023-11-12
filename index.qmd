@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="55%"}
 <br>
 
 # **Jordi A. Rivera Prince**
@@ -13,7 +13,7 @@ title: "Home"
 **Editorial Board**, *Andean Past*
 :::
 
-::: {.column width="10%"}
+::: {.column width="15%"}
 :::
 
 ::: {.column width="40%"}
@@ -29,10 +29,10 @@ Hi, my name is Jordi Rivera Prince and I am currently a Visiting Assistant Profe
 
 My work is founded on two interrelated objectives: 1) to better address inequality in the present, we need to understand its manifestations in the past, and 2) we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice.
 
-You can learn more about me here.
-
-To learn more about my ongoing projects, please read further here.
+You can learn more about me [here](https://jriveraprince.github.io/about.html).
 
 If you would like to see my published work, a compiled list can be found here.
 
-Finally, I am committed to making my work accessible in English and in Spanish. You can find Spanish-language translations to my publications here.
+To learn more about my ongoing projects, please [read further here](https://jriveraprince.github.io/projects.html).
+
+Finally, I am committed to making my work accessible in English and in Spanish. You can find Spanish-language translations to my publications [here](https://jriveraprince.github.io/article_translations.html).
