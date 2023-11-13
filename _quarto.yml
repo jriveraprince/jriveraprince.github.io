@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jriveraprince"
+  title: "Jordi A. Rivera Prince"
   navbar:
     left:
       - href: index.qmd
