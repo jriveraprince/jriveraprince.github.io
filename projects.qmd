@@ -18,10 +18,30 @@ This project was supported by: The Wenner-Gren Foundation Dissertation Fieldwork
 
 <br>
 
+## **Critical Knowledge Production and (Bio)Archaeological Research**
+
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/valley.png")
+```
+
+My research and publications are the result of my belief that we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice. To this end, I have written on themes regarding critical knowledge production in archaeological and anthropological practice.
+
+Based on a seminar on equity and archaeological practice (LeClerc et al. 2023), I have also published on equity in archaeological practice (Rivera Prince et al. 2022) with particular focus on exploring how various mechanisms work to produce inequitable realities for archaeological trainees and those engaged in archaeological practice. These papers were written with a large, collaborative community of coauthors using a practice we call Writing in Community (Rivera Prince et al. *n.d.*).
+
+Archaeology uses numerous STEM-aligned methods rooted in the tenants of the scientific inquiry. There is much labor, time, and expertise that has gone into the development of these methods. As we enter a new field of critical inquiry and questioning our positionality as researchers and practicing archaeologists, their use may warrant critical reflection. 
+
+A recent coauthored article with an environmental archaeologist and zooarchaeologist (Milton et al. 2023) is a call to (bio)archaeologists to critically evaluate the use of isotopic analyses in archaeological practice. We evaluate the motivations for running isotope analyses with human remains, but importantly offer potential avenues for moving forward with isotopic research in a more reflexive manner. Another article (Rivera Prince and Brock Morales *in press*) explicitly centers archaeological backdirt. We argue that backdirt---piles of dirt created from digging units in an archaeological excavation---is largely ignored in the archaeological literature. My theorizing backdirts, exploring their various temporal, spatial, and processual properties, we demonstrate that backdirt is always in process, and has agency that explicitly influences archaeological practice.
+
+Together, these projects work towards a more reflexive archaeological practice, not only in how we engage with others, but also the type of knowledge we produce with archaeological data and how those narratives work to promote and/or obscure particular narratives about the past and present day.
+
+<br> 
+
 ## **Community Relationships to the Archaeological Past and Archaeological Future in the Virú Valley of Perú**
 
 ```{r, echo = FALSE, out.width = "1000px"}
 knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
 ```
 
-Beginning in 2023, this project begins a long-term community-based archaeology program on the coastal Virú Valley of Peru. This project collects local histories and contemporary conceptions of archaeological sites and materials from ancient coastal sites the region. In collecting these stories, this project not only explores relationships between present-day communities and coastal archaeological sites and their role in place making for coastal communities. Furthermore, community members are contributing to archaeological research, in terms of questions and approach, and how they want that archaeological knowledge shared, both academically and back to the community.
+Beginning in 2023, this project begins a long-term community-based archaeology program on the coastal Virú Valley of Peru. Together, we work to document local histories and contemporary conceptions of archaeological materials and sites from ancient coastal sites the region. Coastal communities do not necessarily share the same primary connections to archaeological places in their landscape, as has been explored and documented in highland communities of the Andes. As some of the communities near the coastal sites were settled (relatively) recently, ancestrality may not necessarily be a primary connection to place---and by extension archaeological sites and materials as icons and indexes of the past and a past people. This project also explores how the community engages with archaeological materials and their perceptions of archaeological research.
+
+Throughout this project, local community members are to be involved in terms of input on research questions, approach to particular types of archaeological materials, and how they want that archaeological knowledge shared, both academically and back to the community.
