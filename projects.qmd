@@ -24,7 +24,106 @@ Desde 2017, he trabajado como una de las bioarqueólogas del proyecto del Progra
 
 Sin embargo, se sabe poco sobre cómo el desarrolo de la desigualdad afectó la vida cotidiana de las personas en esta región desde la perspectiva de los esqueletos humanos y sus contextos funerarios. Este proyecto documentó marcadores esqueléticos de salud, estilo de vida, nutrición y estrés para investigar si estos aspectos son indicadores potenciales de desigualdad social. También examiné los contextos funerarios y objectos relacionados con el cuerpo para comprender si (y de ser así, cómo) la distinción social se correlaciona con la desigualdad encarnada dentro del cementerio de JO-IG. Al combinar evidencia bioarqueológica y mortuoria, pude realizar un estudio más holístico para investigar la expresión de la desigualdad social en los restos materiales durante el Horizonte Temprano tardío. Es importante destacar que este proyecto también contribuyó a nuestra comprensión antropológica del surgimiento de la desigualdad social desde la perspectiva de los individuos en comunidades de pequeña escala.
 
+<br>
+
 Este proyecto fue apoyado por: The Wenner-Gren Foundation Dissertation Fieldwork Grant (#10343), The U.S. Fulbright Open Research Grant (Perú), the NSF Graduate Research Fellowship (#1842473), the Ford Predoctoral Fellowship, the University of Florida International Center Research Abroad for Doctoral Students, y the University of Florida Elizabeth M. Eddy Summer New Graduate Student Research Award.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+## **PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO)**
+
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
+```
+
+<br>
+
+PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) began in 2023, and is a long-term community-based archaeology program on the coastal Virú Valley of Perú co-directed with Lic. Aleksalía Isla Alayo.
+
+<br>
+
+***Monumentality in Late Preceramic Coastal Perú: A Bioarchaeological and Mortuary
+Perspective at Huaca Negra, Virú Valley (ca. 3050 - 1650 BCE)***			
+
+How did coastal communities embody and ritualize the social changes associated with the emergence of monumental construction? This project investigates how community heath and burial customs were impacted in a fishing community during the Late Preceramic Period on the North Coast of Perú. (ca. 3,050 to 1650 BCE). Some argue monuments in the Central Andes were constructed by controlled corporate labor, while others view the construction of monumental sites as the result of community initiatives. This project complements previous research by exploring whether the emergence of public architecture was the result of community initiatives as revealed by bioarchaeological and mortuary evidence.				
+
+The 2024 field season focused on a Preceramic cemetery at Huaca Negra, located on the coast of the Virú Valley, La Libertad. This site was occupied before, during, and after the construction of a public temple, Templo de las Llamas, in the late Preceramic period. Though analysis of the bioarchaeological and mortuary evidence, we ask: 1) How did the people of Huaca Negra materialize identity in ritual contexts before, during, and after the construction of the temple? 2) Were the people of Huaca Negra experiencing coercion during the emergence of monumentality? 3) What was the quality of life like for the people of Huaca Negra before, during, and after the construction of the temple?
+
+<br>
+
+***Community Relationships to the Archaeological Past and Archaeological Future in the Virú Valley of Perú***
+
+Together, we work to document local histories and contemporary conceptions of archaeological materials and sites from ancient coastal sites the region. Coastal communities do not necessarily share the same primary connections to archaeological places in their landscape, as has been explored and documented in highland communities of the Andes. As some of the communities near the coastal sites were settled (relatively) recently, ancestrality may not necessarily be a primary connection to place---and by extension archaeological sites and materials as icons and indexes of the past and a past people. This project also explores how the community engages with archaeological materials and their perceptions of archaeological research.
+
+Throughout this project, local community members are involved in terms of input on research questions, approach to particular types of archaeological materials, and how they want that archaeological knowledge shared, both academically and back to the community.
+
+<br>
+
+PIA-PAVVO is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### *Monumentalidad en la costa peruana del Precerámico Tardío: una perspectiva bioarqueológica y mortuoria en la Huaca Negra, Valle de Virú (ca. 3050 - 1650 a. C.)*
+
+¿Cómo encarnaron y ritualizaron las comunidades costeras los cambios sociales asociados con la construcciones monumentales? Este proyecto investiga cómo la salud y practicas funerarias se vieron impactadas en una comunidad pesquera durante el Período Precerámico Tardío en la costa norte del Perú (ca. 3.050 a 1650 a.C.). Algunos sostienen que los monumentos en los Andes fueron construidos de obra corporativa controlada, mientras que otros ven la construcción como resultado de iniciativas comunitarias. Complementamos investigaciones anteriores al explorar a través de estudios bioarqueológicas y funerarias si el surgimiento de la arquitectura pública fue el resultado de iniciativas comunitarias.
+
+La temporada 2024 se centró en un cementerio Precerámico en Huaca Negra, ubicado en la costa del Valle de Virú, La Libertad. Este sitio fue ocupado antes, durante y después de la construcción de un templo público, el Templo de las Llamas, en el período Precerámico Tardío. A través del análisis de la evidencia bioarqueológica y mortuoria, nos preguntamos: 1) ¿Cómo materializaron la identidad los habitantes de la Huaca Negra en contextos rituales antes, durante y después de la construcción del templo? 2) ¿Los habitantes de Huaca Negra sufrieron coerción durante el surgimiento de la monumentalidad? 3) ¿Cuál era la calidad de vida de la gente de Huaca Negra antes, durante y después de la construcción del templo?
+
+<br>
+
+### *Relaciones comunitarias con el pasado y el futuro arqueológico en el Valle de Virú del Perú*
+
+Juntos, trabajamos para documentar historias locales y concepciones contemporáneas de materiales y sitios arqueológicos de antiguos sitios costeros de la región. Las comunidades costeras no necesariamente comparten las mismas conexiones primarias con los lugares arqueológicos en su paisaje, como se ha explorado y documentado en las comunidades de las tierras altas de los Andes. Como algunas de las comunidades cercanas a los sitios costeros fueron asentadas (relativamente) recientemente, la ancestralidad puede no ser necesariamente una conexión principal con el lugar y, por extensión, con los sitios y materiales arqueológicos como íconos e índices del pasado y de un pueblo del pasado. Este proyecto también explora cómo la comunidad se relaciona con los materiales arqueológicos y sus percepciones sobre la investigación arqueológica.
+
+A lo largo de este proyecto, los miembros de la comunidad local deben participar en términos de aportes sobre preguntas de investigación, enfoque a tipos particulares de materiales arqueológicos y cómo quieren que el conocimiento arqueológico se comparta, tanto académicamente como con la comunidad.
+
+<br>
+
+Este proyecto está apoyado por: The Society for American Archaeology H. and T. King Grant for Archaeology of the Ancient Americas.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **The North Burial Ground Documentation Project**
+
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/nbg_photo.jpg")
+```
+
+<br>
+
+PIs: Dr. Jordi A. Rivera Prince (Anthropology) and Annalisa Heppner (Director, North Burial Ground)
+
+Nearly 325 years of United States history can be found between North Main Street, I-95, and Branch Avenue---the City of Providence Parks Department's own North Burial Ground (NBG). However, a majority of this history is rendered inaccessible as much of the data is not in a structured format. Rather, the data is found directly on the 100,000 tombstones found across the 150 acre historic cemetery, and in some cases in handwritten records. NBG is at a key juncture in which systematic documentation of tombstones is an urgent necessity in order to preserve a significant piece of Providence's past, especially as natural processes and human action can cause destruction to the tombstones.
+
+The North Burial Ground Documentation Project is a community-engaged research project to record, digitize, and transcribe tombstones and written records at NBG. The NBG Documentation Project is a collaboration between Brown Anthropology and North Burial Ground, with connection and technical support from the Community-Engaged Data and Evaluation Collaborative (CEDEC) at Brown. Data from the North Burial Ground Documentation Project will be used to explore a variety of social issues throughout Providence's history, including changes in religious beliefs, public health and life expectancy throughout time, and investigate histories of communities typically not centered in US colonial narratives.
+
+<br>
+
+This project is supported by: the Brown University Data Science Institute [Data Science \@ Brown Seed Grant](https://dsi.brown.edu/data-science-grants-brown-2024/)
+
+<br>
+
+**Other Project Members:**
+
+-   Blanca Payne (Anthropology, Brown University)
+
+-   Allyson Frisbee (Archaeology and the Ancient World, History, Brown University)
+
+<br>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+Casi 325 años de historia de los Estados Unidos se puede encontrar entre North Main Street, I-95 y Branch Avenue---en el North Burial Ground (NBG) del Departamento de Parques de la ciudad de Providence. Sin embargo, la mayor parte de este historial se vuelve inaccesible ya que muchos de los datos no están en un formato estructurado. Más bien, los datos se encuentran directamente en las 100.000 lápidas encontradas en el cementerio histórico de 150 acres y, en algunos casos, en registros escritos a mano. NBG se encuentra en un momento clave en el que la documentación sistemática de las lápidas es una necesidad urgente para preservar una parte importante del pasado de Providence, especialmente porque los procesos naturales y la acción humana pueden causar destrucción a las lápidas.
+
+El Proyecto de Documentación del North Burial Ground es un proyecto de investigación en colaboración con la comunidad para registrar, digitalizar ,y transcribir lápidas y registros escritos en NBG. El Proyecto de Documentación NBG es una colaboración entre Brown Anthropology y North Burial Ground, con conexión y soporte técnico de Community-Engaged Data and Evaluation Collaborative (CEDEC) en Brown. Los datos del Proyecto de Documentación del North Burial Ground se utilizarán para explorar una variedad de cuestiones sociales a lo largo de la historia de Providence, incluidos los cambios en las creencias religiosas, la salud pública y la esperanza de vida a lo largo del tiempo, e investigar historias de comunidades que normalmente no se centran en las narrativas coloniales de los Estados Unidos.
+
+<br>
+
+Este proyecto está apoyado por: Instituto de Ciencia de Datos de la Brown University Data Science \@ Brown Seed Grant
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -59,25 +158,3 @@ La arqueología utiliza numerosos métodos alineados con "STEM" (ciencia, tecnol
 Un artículo reciente en coautoría con una arqueóloga ambiental y una zooarqueóloga (Milton et al. 2023) es un llamado a les (bio)arqueólogues para que evalúen críticamente el uso de análisis isotópicos en la práctica arqueológica. Evaluamos las motivaciones para realizar análisis de isótopos con restos humanos, pero, lo que es más importante, ofrecemos vías potenciales para avanzar con la investigación isotópica de una manera más reflexiva. Otro artículo (Rivera Prince y Brock Morales en prensa) centra explícitamente el relleno ("backdirt") arqueológico. Sostenemos que la literatura arqueológica ignora en gran medida del relleno acumulada creada por las unidades de excavación en una excavación arqueológica. Al teorizar sobre los rellenos, explorando sus diversas propiedades temporales, espaciales y procesuales, demostramos que los rellenos están siempre en proceso y tienen una agencia que influye explícitamente en la práctica arqueológica.
 
 Juntos, estos proyectos trabajan hacia una práctica arqueológica más reflexiva, no solo en cómo nos relacionamos con los demás, sino también en el tipo de conocimiento que producimos con datos arqueológicos y cómo esas narrativas funcionan para promover y/u oscurecer narrativas particulares sobre el pasado y el día presente.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-<br>
-
-## **Community Relationships to the Archaeological Past and Archaeological Future in the Virú Valley of Perú**
-
-```{r, echo = FALSE, out.width = "1000px"}
-knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
-```
-
-Beginning in 2023, this project begins a long-term community-based archaeology program on the coastal Virú Valley of Peru. Together, we work to document local histories and contemporary conceptions of archaeological materials and sites from ancient coastal sites the region. Coastal communities do not necessarily share the same primary connections to archaeological places in their landscape, as has been explored and documented in highland communities of the Andes. As some of the communities near the coastal sites were settled (relatively) recently, ancestrality may not necessarily be a primary connection to place---and by extension archaeological sites and materials as icons and indexes of the past and a past people. This project also explores how the community engages with archaeological materials and their perceptions of archaeological research.
-
-Throughout this project, local community members are to be involved in terms of input on research questions, approach to particular types of archaeological materials, and how they want that archaeological knowledge shared, both academically and back to the community.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-<br>
-
-A partir de 2023, este proyecto inicia un programa de arqueología comunitaria a largo plazo en la costa del Valle Virú, Perú. Juntos, trabajamos para documentar historias locales y concepciones contemporáneas de materiales y sitios arqueológicos de antiguos sitios costeros de la región. Las comunidades costeras no necesariamente comparten las mismas conexiones primarias con los lugares arqueológicos en su paisaje, como se ha explorado y documentado en las comunidades de las tierras altas de los Andes. Como algunas de las comunidades cercanas a los sitios costeros fueron asentadas (relativamente) recientemente, la ancestralidad puede no ser necesariamente una conexión principal con el lugar y, por extensión, con los sitios y materiales arqueológicos como íconos e índices del pasado y de un pueblo del pasado. Este proyecto también explora cómo la comunidad se relaciona con los materiales arqueológicos y sus percepciones sobre la investigación arqueológica.
-
-A lo largo de este proyecto, los miembros de la comunidad local deben participar en términos de aportes sobre preguntas de investigación, enfoque a tipos particulares de materiales arqueológicos y cómo quieren que el conocimiento arqueológico se comparta, tanto académicamente como con la comunidad.
