@@ -6,7 +6,7 @@ title: "About"
 knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/sunset.png")
 ```
 
-I am a **bioarchaeologist** and **mortuary archaeologist**, with particular focus in **coastal communities in the Andes** pre-colonization. Currently, I am a Visiting Assistant Professor of Anthropology at Brown University, faculty affiliate of the Brown Institute for Environment and Society, and on the Editorial Advisory Board of *Andean Past*.
+I am a **bioarchaeologist** and **mortuary archaeologist**, with particular focus in **coastal communities in the Andes** pre-colonization. Currently, I am a Brown University Presidential Postdoctoral Fellow in the Department of Anthropology, faculty affiliate of the Brown Institute for Environment and Society, and on the Editorial Advisory Board of *Andean Past*.
 
 I received my M.A. in Anthropology (2020), and a Ph.D. in Anthropology (2023) from the University of Florida, as a National Science Foundation Graduate Research Fellow (2019-2023), and National Academies of Science, Engineering, and Medicine Ford Predoctoral Fellow (2019-2023). I am also a Registered Professional Archaeologist (#18386).
 
@@ -24,7 +24,7 @@ Finally, I am deeply committed to **addressing equity issues in archaeological a
 knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/huanchaco2.png")
 ```
 
-Soy **bioarqueóloga** y **arqueóloga de contextos funearios,** con enfoque en **comunidades costeras en la precolonización de los Andes**. Actualmente, soy profesora asistente visitante de Antropología en Brown University, afiliado a la facultad del Instituto de Brown para el Medioambiente y la Sociedad y miembra de la junta editorial de Andean Past.
+Soy **bioarqueóloga** y **arqueóloga de contextos funearios,** con enfoque en **comunidades costeras en la precolonización de los Andes**. Actualmente, soy Postdoctoral Fellow Presidencial de la Brown University en el Departamento de Antropología, afiliado a la facultad del Instituto de Brown para el Medioambiente y la Sociedad y miembra de la junta editorial de Andean Past.
 
 Recibí mi maestría en Antropología (2020) y doctorado en Antropología (2023) de la Universidad de Florida, como becaria de investigación de Posgrado de la Fundación Nacional de Ciencias (NSF GRFP, 2019-2023) y becaria Predoctoral Ford de las Academias Nacionales de Ciencias, Ingeniería y Medicina (2019-2023). También soy Arqueóloga Profesional Registrado (#18386).
 
