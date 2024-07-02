@@ -106,6 +106,10 @@ Un artículo reciente en coautoría con una arqueóloga ambiental y una zooarque
 
 Juntos, estos proyectos trabajan hacia una práctica arqueológica más reflexiva, no solo en cómo nos relacionamos con los demás, sino también en el tipo de conocimiento que producimos con datos arqueológicos y cómo esas narrativas funcionan para promover y/u oscurecer narrativas particulares sobre el pasado y el día presente.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
 ## **PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO)**
 
 ```{r, echo = FALSE, out.width = "1000px"}
