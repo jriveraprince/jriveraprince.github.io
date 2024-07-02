@@ -8,7 +8,7 @@ title: "Home"
 
 ## **Jordi A. Rivera Prince**
 
-**Visiting Assistant Professor,** Department of Anthropology, Brown University
+**Presidential Postdoctoral Fellow,** Department of Anthropology, Brown University
 
 **Faulty Affiliate,** Institute at Brown for Environment and Society (IBES), Brown University
 
@@ -29,7 +29,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/JARP_Headshot.j
 
 <br>
 
-Hi, my name is Jordi Rivera Prince and I am currently a Visiting Assistant Professor in the Department of Anthropology at Brown University. My expertise lies in bioarchaeology, the archaeology of Andean South America, and social inequality, with further interests in contemporary archaeological theory, feminist archaeology, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research in the Andes region of Peru.
+Hi, my name is Jordi Rivera Prince and I am currently a Brown University Presidential Postdoctoral Fellow in the Department of Anthropology. My expertise lies in bioarchaeology, the archaeology of Andean South America, and social inequality, with further interests in contemporary archaeological theory, feminist archaeology, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research in the Andes region of Peru.
 
 My work is founded on two interrelated objectives: 1) to better address inequality in the present, we need to understand its manifestations in the past, and 2) we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice.
 
@@ -43,11 +43,11 @@ Finally, I am committed to making my work accessible in English and in Spanish. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Hola, soy Jordi Rivera Prince y actualmente soy profesora asistente visitante en el Departamento de Antropología de la Brown University. Soy experta en la bioarqueología, la arqueología de los Andes y la desigualdad social, con mayores intereses en la teoría arqueológica contemporánea, la arqueología feminista, y la equidad en la práctica arqueológica aplicada en mi investigación arqueológica y bioarqueológica en curso en la región de los Andes del Perú.
+Hola, soy Jordi Rivera Prince y actualmente soy Fellow Postdoctoral Presidencial de la Brown University en el Departamento de Antropología. Soy experta en la bioarqueología, la arqueología de los Andes y la desigualdad social, con mayores intereses en la teoría arqueológica contemporánea, la arqueología feminista, y la equidad en la práctica arqueológica aplicada en mi investigación arqueológica y bioarqueológica en curso en la región de los Andes del Perú.
 
 Mi trabajo se basa en dos objetivos interrelacionados: 1) para abordar mejor la desigualdad en el presente, necesitamos comprender sus manifestaciones en el pasado, y 2) no podemos estudiar el pasado (especialmente las historias de desigualdad) de manera efectiva a menos que abordar las desigualdades en la práctica arqueológica actual.
 
-Puedes aprender más sobre mí [aquí.](https://jriveraprince.github.io/about.html)
+Puede aprender más sobre mí [aquí.](https://jriveraprince.github.io/about.html)
 
 Si desea ver mi trabajo publicado, puede encontrar una lista compilada [aquí](https://jriveraprince.github.io/publications.html).
 
@@ -58,3 +58,5 @@ Finalmente, me comprometo a hacer que mi trabajo sea accesible en inglés y espa
 <br><br><br>
 
 This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince
+
+Este sitio web fue codificado usando Quarto por Jordi A. Rivera Prince

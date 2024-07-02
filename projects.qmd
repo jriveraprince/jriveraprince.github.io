@@ -32,59 +32,6 @@ Este proyecto fue apoyado por: The Wenner-Gren Foundation Dissertation Fieldwork
 
 <br>
 
-## **PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO)**
-
-```{r, echo = FALSE, out.width = "1000px"}
-knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
-```
-
-<br>
-
-PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) began in 2023, and is a long-term community-based archaeology program on the coastal Virú Valley of Perú co-directed with Lic. Aleksalía Isla Alayo.
-
-<br>
-
-***Monumentality in Late Preceramic Coastal Perú: A Bioarchaeological and Mortuary
-Perspective at Huaca Negra, Virú Valley (ca. 3050 - 1650 BCE)***			
-
-How did coastal communities embody and ritualize the social changes associated with the emergence of monumental construction? This project investigates how community heath and burial customs were impacted in a fishing community during the Late Preceramic Period on the North Coast of Perú. (ca. 3,050 to 1650 BCE). Some argue monuments in the Central Andes were constructed by controlled corporate labor, while others view the construction of monumental sites as the result of community initiatives. This project complements previous research by exploring whether the emergence of public architecture was the result of community initiatives as revealed by bioarchaeological and mortuary evidence.				
-
-The 2024 field season focused on a Preceramic cemetery at Huaca Negra, located on the coast of the Virú Valley, La Libertad. This site was occupied before, during, and after the construction of a public temple, Templo de las Llamas, in the late Preceramic period. Though analysis of the bioarchaeological and mortuary evidence, we ask: 1) How did the people of Huaca Negra materialize identity in ritual contexts before, during, and after the construction of the temple? 2) Were the people of Huaca Negra experiencing coercion during the emergence of monumentality? 3) What was the quality of life like for the people of Huaca Negra before, during, and after the construction of the temple?
-
-<br>
-
-***Community Relationships to the Archaeological Past and Archaeological Future in the Virú Valley of Perú***
-
-Together, we work to document local histories and contemporary conceptions of archaeological materials and sites from ancient coastal sites the region. Coastal communities do not necessarily share the same primary connections to archaeological places in their landscape, as has been explored and documented in highland communities of the Andes. As some of the communities near the coastal sites were settled (relatively) recently, ancestrality may not necessarily be a primary connection to place---and by extension archaeological sites and materials as icons and indexes of the past and a past people. This project also explores how the community engages with archaeological materials and their perceptions of archaeological research.
-
-Throughout this project, local community members are involved in terms of input on research questions, approach to particular types of archaeological materials, and how they want that archaeological knowledge shared, both academically and back to the community.
-
-<br>
-
-PIA-PAVVO is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas).
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### *Monumentalidad en la costa peruana del Precerámico Tardío: una perspectiva bioarqueológica y mortuoria en la Huaca Negra, Valle de Virú (ca. 3050 - 1650 a. C.)*
-
-¿Cómo encarnaron y ritualizaron las comunidades costeras los cambios sociales asociados con la construcciones monumentales? Este proyecto investiga cómo la salud y practicas funerarias se vieron impactadas en una comunidad pesquera durante el Período Precerámico Tardío en la costa norte del Perú (ca. 3.050 a 1650 a.C.). Algunos sostienen que los monumentos en los Andes fueron construidos de obra corporativa controlada, mientras que otros ven la construcción como resultado de iniciativas comunitarias. Complementamos investigaciones anteriores al explorar a través de estudios bioarqueológicas y funerarias si el surgimiento de la arquitectura pública fue el resultado de iniciativas comunitarias.
-
-La temporada 2024 se centró en un cementerio Precerámico en Huaca Negra, ubicado en la costa del Valle de Virú, La Libertad. Este sitio fue ocupado antes, durante y después de la construcción de un templo público, el Templo de las Llamas, en el período Precerámico Tardío. A través del análisis de la evidencia bioarqueológica y mortuoria, nos preguntamos: 1) ¿Cómo materializaron la identidad los habitantes de la Huaca Negra en contextos rituales antes, durante y después de la construcción del templo? 2) ¿Los habitantes de Huaca Negra sufrieron coerción durante el surgimiento de la monumentalidad? 3) ¿Cuál era la calidad de vida de la gente de Huaca Negra antes, durante y después de la construcción del templo?
-
-<br>
-
-### *Relaciones comunitarias con el pasado y el futuro arqueológico en el Valle de Virú del Perú*
-
-Juntos, trabajamos para documentar historias locales y concepciones contemporáneas de materiales y sitios arqueológicos de antiguos sitios costeros de la región. Las comunidades costeras no necesariamente comparten las mismas conexiones primarias con los lugares arqueológicos en su paisaje, como se ha explorado y documentado en las comunidades de las tierras altas de los Andes. Como algunas de las comunidades cercanas a los sitios costeros fueron asentadas (relativamente) recientemente, la ancestralidad puede no ser necesariamente una conexión principal con el lugar y, por extensión, con los sitios y materiales arqueológicos como íconos e índices del pasado y de un pueblo del pasado. Este proyecto también explora cómo la comunidad se relaciona con los materiales arqueológicos y sus percepciones sobre la investigación arqueológica.
-
-A lo largo de este proyecto, los miembros de la comunidad local deben participar en términos de aportes sobre preguntas de investigación, enfoque a tipos particulares de materiales arqueológicos y cómo quieren que el conocimiento arqueológico se comparta, tanto académicamente como con la comunidad.
-
-<br>
-
-Este proyecto está apoyado por: The Society for American Archaeology H. and T. King Grant for Archaeology of the Ancient Americas.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 ## **The North Burial Ground Documentation Project**
 
 ```{r, echo = FALSE, out.width = "1000px"}
@@ -158,3 +105,59 @@ La arqueología utiliza numerosos métodos alineados con "STEM" (ciencia, tecnol
 Un artículo reciente en coautoría con una arqueóloga ambiental y una zooarqueóloga (Milton et al. 2023) es un llamado a les (bio)arqueólogues para que evalúen críticamente el uso de análisis isotópicos en la práctica arqueológica. Evaluamos las motivaciones para realizar análisis de isótopos con restos humanos, pero, lo que es más importante, ofrecemos vías potenciales para avanzar con la investigación isotópica de una manera más reflexiva. Otro artículo (Rivera Prince y Brock Morales en prensa) centra explícitamente el relleno ("backdirt") arqueológico. Sostenemos que la literatura arqueológica ignora en gran medida del relleno acumulada creada por las unidades de excavación en una excavación arqueológica. Al teorizar sobre los rellenos, explorando sus diversas propiedades temporales, espaciales y procesuales, demostramos que los rellenos están siempre en proceso y tienen una agencia que influye explícitamente en la práctica arqueológica.
 
 Juntos, estos proyectos trabajan hacia una práctica arqueológica más reflexiva, no solo en cómo nos relacionamos con los demás, sino también en el tipo de conocimiento que producimos con datos arqueológicos y cómo esas narrativas funcionan para promover y/u oscurecer narrativas particulares sobre el pasado y el día presente.
+
+## **PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO)**
+
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
+```
+
+<br>
+
+PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) began in 2023, and is a long-term community-based archaeology program on the coastal Virú Valley of Perú co-directed with Lic. Aleksalía Isla Alayo. This project is currently on pause due to safety concerns in the region.
+
+<br>
+
+***Monumentality in Late Preceramic Coastal Perú: A Bioarchaeological and Mortuary Perspective at Huaca Negra, Virú Valley (ca. 3050 - 1650 BCE)***
+
+How did coastal communities embody and ritualize the social changes associated with the emergence of monumental construction? This project investigates how community heath and burial customs were impacted in a fishing community during the Late Preceramic Period on the North Coast of Perú. (ca. 3,050 to 1650 BCE). Some argue monuments in the Central Andes were constructed by controlled corporate labor, while others view the construction of monumental sites as the result of community initiatives. This project complements previous research by exploring whether the emergence of public architecture was the result of community initiatives as revealed by bioarchaeological and mortuary evidence.
+
+The 2024 field season focused on a Preceramic cemetery at Huaca Negra, located on the coast of the Virú Valley, La Libertad. This site was occupied before, during, and after the construction of a public temple, Templo de las Llamas, in the late Preceramic period. Though analysis of the bioarchaeological and mortuary evidence, we ask: 1) How did the people of Huaca Negra materialize identity in ritual contexts before, during, and after the construction of the temple? 2) Were the people of Huaca Negra experiencing coercion during the emergence of monumentality? 3) What was the quality of life like for the people of Huaca Negra before, during, and after the construction of the temple?
+
+<br>
+
+***Community Relationships to the Archaeological Past and Archaeological Future in the Virú Valley of Perú***
+
+Together, we work to document local histories and contemporary conceptions of archaeological materials and sites from ancient coastal sites the region. Coastal communities do not necessarily share the same primary connections to archaeological places in their landscape, as has been explored and documented in highland communities of the Andes. As some of the communities near the coastal sites were settled (relatively) recently, ancestrality may not necessarily be a primary connection to place---and by extension archaeological sites and materials as icons and indexes of the past and a past people. This project also explores how the community engages with archaeological materials and their perceptions of archaeological research.
+
+Throughout this project, local community members are involved in terms of input on research questions, approach to particular types of archaeological materials, and how they want that archaeological knowledge shared, both academically and back to the community.
+
+<br>
+
+PIA-PAVVO is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### *Monumentalidad en la costa peruana del Precerámico Tardío: una perspectiva bioarqueológica y mortuoria en la Huaca Negra, Valle de Virú (ca. 3050 - 1650 a. C.)*
+
+<br>
+
+PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) comenzó en 2023 y es un proyecto de arqueología comunitaria a largo plazo en el valle costero de Virú de Perú codirigido con el Lic. Aleksalía Isla Alayo. Este proyecto se encuentra actualmente en pausa debido a preocupaciones de seguridad en la región.
+
+<br>
+
+¿Cómo encarnaron y ritualizaron las comunidades costeras los cambios sociales asociados con la construcciones monumentales? Este proyecto investiga cómo la salud y practicas funerarias se vieron impactadas en una comunidad pesquera durante el Período Precerámico Tardío en la costa norte del Perú (ca. 3.050 a 1650 a.C.). Algunos sostienen que los monumentos en los Andes fueron construidos de obra corporativa controlada, mientras que otros ven la construcción como resultado de iniciativas comunitarias. Complementamos investigaciones anteriores al explorar a través de estudios bioarqueológicas y funerarias si el surgimiento de la arquitectura pública fue el resultado de iniciativas comunitarias.
+
+La temporada 2024 se centró en un cementerio Precerámico en Huaca Negra, ubicado en la costa del Valle de Virú, La Libertad. Este sitio fue ocupado antes, durante y después de la construcción de un templo público, el Templo de las Llamas, en el período Precerámico Tardío. A través del análisis de la evidencia bioarqueológica y mortuoria, nos preguntamos: 1) ¿Cómo materializaron la identidad los habitantes de la Huaca Negra en contextos rituales antes, durante y después de la construcción del templo? 2) ¿Los habitantes de Huaca Negra sufrieron coerción durante el surgimiento de la monumentalidad? 3) ¿Cuál era la calidad de vida de la gente de Huaca Negra antes, durante y después de la construcción del templo?
+
+<br>
+
+### *Relaciones comunitarias con el pasado y el futuro arqueológico en el Valle de Virú del Perú*
+
+Juntos, trabajamos para documentar historias locales y concepciones contemporáneas de materiales y sitios arqueológicos de antiguos sitios costeros de la región. Las comunidades costeras no necesariamente comparten las mismas conexiones primarias con los lugares arqueológicos en su paisaje, como se ha explorado y documentado en las comunidades de las tierras altas de los Andes. Como algunas de las comunidades cercanas a los sitios costeros fueron asentadas (relativamente) recientemente, la ancestralidad puede no ser necesariamente una conexión principal con el lugar y, por extensión, con los sitios y materiales arqueológicos como íconos e índices del pasado y de un pueblo del pasado. Este proyecto también explora cómo la comunidad se relaciona con los materiales arqueológicos y sus percepciones sobre la investigación arqueológica.
+
+A lo largo de este proyecto, los miembros de la comunidad local deben participar en términos de aportes sobre preguntas de investigación, enfoque a tipos particulares de materiales arqueológicos y cómo quieren que el conocimiento arqueológico se comparta, tanto académicamente como con la comunidad.
+
+<br>
+
+Este proyecto está apoyado por: The Society for American Archaeology H. and T. King Grant for Archaeology of the Ancient Americas.
