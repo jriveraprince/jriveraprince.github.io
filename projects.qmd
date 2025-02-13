@@ -132,7 +132,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/viru1.png")
 
 <br>
 
-PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) began in 2023, and is a long-term community-based archaeology program on the coastal Virú Valley of Perú co-directed with Lic. Aleksalía Isla Alayo. This project is currently on pause due to safety concerns in the region.
+PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) began in 2023, and is a long-term community-based archaeology program on the coastal Virú Valley of Perú co-directed with Lic. Aleksalía Isla Alayo.
 
 <br>
 
@@ -160,7 +160,7 @@ PIA-PAVVO is supported by: The Society for American Archaeology [H. and T. King 
 
 <br>
 
-PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) comenzó en 2023 y es un proyecto de arqueología comunitaria a largo plazo en el valle costero de Virú de Perú codirigido con el Lic. Aleksalía Isla Alayo. Este proyecto se encuentra actualmente en pausa debido a preocupaciones de seguridad en la región.
+PIA - Proyecto Arqueológico del Valle Virú Oeste (PIA-PAVVO) comenzó en 2023 y es un proyecto de arqueología comunitaria a largo plazo en el valle costero de Virú de Perú codirigido con el Lic. Aleksalía Isla Alayo.
 
 <br>
 
