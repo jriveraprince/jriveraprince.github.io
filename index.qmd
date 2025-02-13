@@ -12,9 +12,11 @@ title: "Home"
 
 **Faculty Fellow,** Joukowsky Institute for Archaeology and the Ancient World, Brown University
 
-**Faculty Affiliate,** Institute at Brown for Environment and Society (IBES), Brown University
+**Postdoctoral Affiliate,** Data Science Institute, Institute at Brown for Environment and Society (IBES), Center for Latin American and Carribean Studies, and the Program in Early Cultures, Brown University
 
 **Editorial Board**, *Andean Past*
+
+**Register of Professional Archaeologists,** Board of Directors Liaison to the American Anthropological Association
 :::
 
 ::: {.column width="5%"}
@@ -59,6 +61,6 @@ Finalmente, me comprometo a hacer que mi trabajo sea accesible en inglés y espa
 
 <br><br><br>
 
-This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince
+This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince, and last updated 13 February 2025.
 
-Este sitio web fue codificado usando Quarto por Jordi A. Rivera Prince
+Este sitio web fue codificado usando Quarto por Jordi A. Rivera Prince, y actualizado por última vez el 13 de febrero de 2025.

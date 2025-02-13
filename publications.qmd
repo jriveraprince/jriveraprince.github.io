@@ -8,6 +8,12 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/campana.png")
 
 ## Papers
 
+**Rivera Prince, Jordi A.,** Emily Blackwood, Madeleine Landrum, Elizabeth L. Leclerc, Emily B. Milton, Monica Barnes, Kristina Douglass, María José Figuerero Torres, María A. Gutiérrez, Sarah Herr, Kirk A. Maasch, Kylie Quave, and Daniel H. Sandweiss. (*In Press).* Writing in Community: Relationship Building and Accountability in Knowledge Production. *Forthcoming in American Anthropologist, June 2025.*
+
+**Rivera Prince, Jordi A.** (2024). Desigualdad Emergente: Surgimiento Temprano de Elites durante el Periodo Salinar en la Costa Norte del Perú. *Arqueolizándonos* 1(3):5-6.
+
+**Rivera Prince, Jordi A.** (2024). Intersectional Anthropology as an Avenue Toward Praxis, Pedagogy, and New Anthropological Horizons. [*Anthropology News*](https://www.anthropology-news.org/articles/intersectional-anthropology-as-an-avenue-toward-praxis-pedagogy-and-new-anthropological-horizons/)Thematic Issue on Praxis. <https://www.anthropology-news.org/articles/intersectional-anthropology-as-an-avenue-toward-praxis-pedagogy-and-new-anthropological-horizons/>
+
 **Rivera Prince, Jordi A.** and Amanda Brock Morales. (2024). Backdirting: Theorizing Backdirt through Time and Place. *Journal of Field Archaeology.* Special Issue "On Backdirt." Allison Mickell and Christine Luke (editors). Invited Paper. <https://doi.org/10.1080/00934690.2024.2307116>. (*peer reviewed*)
 
 Milton, Emily, **Jordi A. Rivera Prince**, and Meilna Seabrook. (2023). Restoring Isotopic Identity Research with Braided Baseintervals. *Bioarchaeology International.* Special Issue "Integrating Chemical Isotopes and Critical Theory in Bioarchaeology." Sara L. Juengst and Matthew C. Velasco (editors). Invited Paper. <https://doi.org/10.5744/bi.2023.0012>. (*peer reviewed*)

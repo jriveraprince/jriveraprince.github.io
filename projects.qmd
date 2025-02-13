@@ -58,6 +58,20 @@ This project is supported by: the Brown University Data Science Institute [Data 
 
 -   Allyson Frisbee (Archaeology and the Ancient World, History, Brown University)
 
+-   Sofia Nuri (Environmental Science, Brown University)
+
+-   Coral Gimbernard (Brown University)
+
+-   Brooke Halvorsen (Anthropology, Brown University)
+
+-   Meta Covington (Anthropology, Brown University)
+
+-   Cecilia Bartin (Computer Science, Brown University)
+
+-   Tilly Hildenbrand-Arlt (Classics, Medieval Cultures, Brown University)
+
+-   Paneri Patel (MS Data Science Institute, Brown University)
+
 <br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
