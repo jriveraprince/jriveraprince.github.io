@@ -33,7 +33,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/rivera_2024.png
 
 <br>
 
-Hi, my name is Jordi Rivera Prince and I am currently a Brown University Presidential Postdoctoral Fellow in the Department of Anthropology. My expertise lies in bioarchaeology, the archaeology of Andean South America, and social inequality, with further interests in contemporary archaeological theory, feminist archaeology, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research in the Andes region of Peru.
+Hi, my name is Jordi Rivera Prince and I am currently a Brown University Presidential Postdoctoral Fellow in the Department of Anthropology. My expertise lies in bioarchaeology, mortuary archaeology, the archaeology of Andean South America, Historic New England, and social inequality in coastal fishing communities. I have further interests in contemporary archaeological theory, community engaged practice, and equity in archaeological practice as applied in my ongoing archaeological and bioarchaeological research.
 
 My work is founded on two interrelated objectives: 1) to better address inequality in the present, we need to understand its manifestations in the past, and 2) we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice.
 
@@ -41,13 +41,17 @@ You can learn more about me [here](https://jriveraprince.github.io/about.html).
 
 If you would like to see my published work, a compiled list can be found [here](https://jriveraprince.github.io/publications.html).
 
-To learn more about my ongoing projects, please [read further here](https://jriveraprince.github.io/projects.html).
+To learn more about my ongoing projects in Perú, please [read further here](https://jriveraprince.github.io/projects.html).
+
+To learn more about my ongoing projects in New England, please read further here.
+
+To learn more about my ongoing work in critical knowledge production, please read further here.
 
 Finally, I am committed to making my work accessible in English and in Spanish. You can find Spanish-language translations to my publications [here](https://jriveraprince.github.io/article_translations.html).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Hola, soy Jordi Rivera Prince y actualmente soy Postdoctoral Fellow Presidencial de la Brown University en el Departamento de Antropología. Soy experta en la bioarqueología, la arqueología de los Andes y la desigualdad social, con mayores intereses en la teoría arqueológica contemporánea, la arqueología feminista, y la equidad en la práctica arqueológica aplicada en mi investigación arqueológica y bioarqueológica en curso en la región de los Andes del Perú.
+Hola, soy Jordi Rivera Prince y actualmente soy Postdoctoral Fellow Presidencial de la Brown University en el Departamento de Antropología. Soy experta en la bioarqueología, la arqueología mortuoria, la arqueología de los Andes, la Nueva Inglaterra histórica, y la desigualdad social en las comunidades pesqueras costeras. También me interesan la teoría arqueológica contemporánea, la práctica comunitaria, y la equidad en la práctica arqueológica aplicada en mi investigación arqueológica y bioarqueológica.
 
 Mi trabajo se basa en dos objetivos interrelacionados: 1) para abordar mejor la desigualdad en el presente, necesitamos comprender sus manifestaciones en el pasado, y 2) no podemos estudiar el pasado (especialmente las historias de desigualdad) de manera efectiva a menos que abordar las desigualdades en la práctica arqueológica actual.
 
@@ -55,12 +59,16 @@ Puede aprender más sobre mí [aquí.](https://jriveraprince.github.io/about.htm
 
 Si desea ver mi trabajo publicado, puede encontrar una lista compilada [aquí](https://jriveraprince.github.io/publications.html).
 
-Para obtener más información sobre mis proyectos, [lea más aquí](https://jriveraprince.github.io/projects.html).
+Para saber más información sobre mis proyectos en Perú, [lea más aquí](https://jriveraprince.github.io/projects.html).
+
+Para saber más sobre mis proyectos en Nueva Inglaterra EEUU, lea más aquí.
+
+Para saber más sobre mi trabajo en la producción de conocimiento crítico, lea más aquí.
 
 Finalmente, me comprometo a hacer que mi trabajo sea accesible en inglés y español. Puede encontrar traducciones al español de mis publicaciones [aquí](https://jriveraprince.github.io/article_translations.html).
 
 <br><br><br>
 
-This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince, and last updated 13 February 2025.
+This website was [coded using Quarto](https://github.com/jriveraprince/jriveraprince.github.io) by Jordi A. Rivera Prince, and last updated 21 May 2025.
 
-Este sitio web fue codificado usando Quarto por Jordi A. Rivera Prince, y actualizado por última vez el 13 de febrero de 2025.
+Este sitio web fue codificado usando Quarto por Jordi A. Rivera Prince, y actualizado por última vez el 21 de mayo de 2025.

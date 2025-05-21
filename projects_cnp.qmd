@@ -1,0 +1,35 @@
+---
+title: "Critical Knowledge Production and (Bio)Archaeological Research"
+---
+
+
+```{r, echo = FALSE, out.width = "1000px"}
+knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/valley.png")
+```
+
+My research and publications are the result of my belief that we cannot study the past (especially histories of inequality), in an effective manner unless we address inequities in current archaeological practice. To this end, I have written on themes regarding critical knowledge production in archaeological and anthropological practice.
+
+Based on a seminar on equity and archaeological practice ([LeClerc et al. 2023](https://mydigitalpublication.com/publication/?i=748094&p=10&view=issueViewer)), I have also published on equity in archaeological practice ([Rivera Prince et al. 2022](https://doi.org/10.1017/aap.2022.26)) with particular focus on exploring how various mechanisms work to produce inequitable realities for archaeological trainees and those engaged in archaeological practice. These papers were written with a large, collaborative community of coauthors using a practice we call Writing in Community (Rivera Prince et al. *n.d.*).
+
+Archaeology uses numerous STEM-aligned methods rooted in the tenets of scientific inquiry. There is much labor, time, and expertise that has gone into the development of these methods. As we enter a new field of critical inquiry and questioning our positionality as researchers and practicing archaeologists, their use may warrant critical reflection.
+
+A recent coauthored article with an environmental archaeologist and zooarchaeologist ([Milton et al. 2023](https://doi.org/10.5744/bi.2023.0012)) is a call to (bio)archaeologists to critically evaluate the use of isotopic analyses in archaeological practice. We evaluate the motivations for running isotope analyses with human remains, but importantly offer potential avenues for moving forward with isotopic research in a more reflexive manner. Another article ([Rivera Prince and Brock Morales 2024](https://doi.org/10.1080/00934690.2024.2307116)) explicitly centers archaeological backdirt. We argue that backdirt---piles of dirt created from digging units in an archaeological excavation---is largely ignored in the archaeological literature. By theorizing backdirts, exploring their various temporal, spatial, and processual properties, we demonstrate that backdirt is always in process, and has agency that explicitly influences archaeological practice.
+
+Together, these projects work towards a more reflexive archaeological practice, not only in how we engage with others, but also the type of knowledge we produce with archaeological data and how those narratives work to promote and/or obscure particular narratives about the past and present day.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+Mis investigaciones y publicaciones son el resultado de mi creencia de que no podemos estudiar el pasado (especialmente las historias de desigualdad) de manera efectiva a menos que abordemos las desigualdades en la práctica arqueológica actual. Por eso, he escrito sobre temas relacionados con la producción de conocimiento crítico en la práctica arqueológica y antropológica.
+
+Basado en un seminario sobre equidad y práctica arqueológica ([LeClerc et al. 2023](https://digitalcommons.library.umaine.edu/ant_facpub/60/)), también publiqué sobre equidad en la práctica arqueológica ([Rivera Prince et al. 2022](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2326376822000262/resource/name/S2326376822000262sup001.pdf)) con especial énfasis en explorar cómo funcionan varios mecanismos para producir realidades inequitativas para les estudiantes de arqueología y aquelles que se dedican a la práctica arqueológica. Estos artículos fueron escritos con una gran comunidad colaborativa de coautores utilizando una práctica que llamamos Escribir en Comunidad (Rivera Prince et al. *s.f.*).
+
+La arqueología utiliza numerosos métodos alineados con "STEM" (ciencia, tecnología, ingeniería, y matemáticas) y arraigados en los principios de la investigación científica. Se ha invertido mucho trabajo, tiempo y experiencia en el desarrollo de estos métodos. A medida que ingresamos a un nuevo campo de investigación crítica y cuestionamos nuestra posición como investigadores y arqueólogues, el uso de estos métodos puede justificar una reflexión crítica.
+
+Un artículo reciente en coautoría con una arqueóloga ambiental y una zooarqueóloga (Milton et al. 2023) es un llamado a les (bio)arqueólogues para que evalúen críticamente el uso de análisis isotópicos en la práctica arqueológica. Evaluamos las motivaciones para realizar análisis de isótopos con restos humanos, pero, lo que es más importante, ofrecemos vías potenciales para avanzar con la investigación isotópica de una manera más reflexiva. Otro artículo (Rivera Prince y Brock Morales en prensa) centra explícitamente el relleno ("backdirt") arqueológico. Sostenemos que la literatura arqueológica ignora en gran medida del relleno acumulada creada por las unidades de excavación en una excavación arqueológica. Al teorizar sobre los rellenos, explorando sus diversas propiedades temporales, espaciales y procesuales, demostramos que los rellenos están siempre en proceso y tienen una agencia que influye explícitamente en la práctica arqueológica.
+
+Juntos, estos proyectos trabajan hacia una práctica arqueológica más reflexiva, no solo en cómo nos relacionamos con los demás, sino también en el tipo de conocimiento que producimos con datos arqueológicos y cómo esas narrativas funcionan para promover y/u oscurecer narrativas particulares sobre el pasado y el día presente.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+

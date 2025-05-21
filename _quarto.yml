@@ -9,13 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
+        text: About
       - href: publications.qmd
         text: Publications
       - href: projects.qmd
-        text: Projects
+        text: Perú
+      - href: projects_NBG.qmd
+        text: North Burial Ground
+      - href: projects_cnp.qmd
+        text: Critical Knowledge Production
       - href: article_translations.qmd
-        text: Traducciones en Español
+        text: Traducciones
   google-analytics: 'G-PS1VX1TWKC'
         
         
