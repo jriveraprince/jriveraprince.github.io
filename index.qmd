@@ -41,11 +41,11 @@ You can learn more about me [here](https://jriveraprince.github.io/about.html).
 
 If you would like to see my published work, a compiled list can be found [here](https://jriveraprince.github.io/publications.html).
 
-To learn more about my ongoing projects in Perú, please [read further here](https://jriveraprince.github.io/projects.html).
+To learn more about my ongoing projects in Perú, please [read further here](https://jriveraprince.github.io/projects_peru.html).
 
-To learn more about my ongoing projects in New England, please read further here.
+To learn more about my ongoing projects in New England, please [read further here](https://jriveraprince.github.io/projects_nbg.html).
 
-To learn more about my ongoing work in critical knowledge production, please read further here.
+To learn more about my ongoing work in critical knowledge production, please [read further here](https://jriveraprince.github.io/projects_ckp.html).
 
 Finally, I am committed to making my work accessible in English and in Spanish. You can find Spanish-language translations to my publications [here](https://jriveraprince.github.io/article_translations.html).
 
@@ -59,11 +59,11 @@ Puede aprender más sobre mí [aquí.](https://jriveraprince.github.io/about.htm
 
 Si desea ver mi trabajo publicado, puede encontrar una lista compilada [aquí](https://jriveraprince.github.io/publications.html).
 
-Para saber más información sobre mis proyectos en Perú, [lea más aquí](https://jriveraprince.github.io/projects.html).
+Para saber más información sobre mis proyectos en Perú, [lea más aquí](https://jriveraprince.github.io/projects_peru.html).
 
-Para saber más sobre mis proyectos en Nueva Inglaterra EEUU, lea más aquí.
+Para saber más sobre mis proyectos en Nueva Inglaterra EEUU, [lea más aquí](https://jriveraprince.github.io/projects_nbg.html).
 
-Para saber más sobre mi trabajo en la producción de conocimiento crítico, lea más aquí.
+Para saber más sobre mi trabajo en la producción de conocimiento crítico, [lea más aquí](https://jriveraprince.github.io/projects_ckp.html).
 
 Finalmente, me comprometo a hacer que mi trabajo sea accesible en inglés y español. Puede encontrar traducciones al español de mis publicaciones [aquí](https://jriveraprince.github.io/article_translations.html).
 

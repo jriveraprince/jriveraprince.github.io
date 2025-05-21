@@ -12,11 +12,11 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
-      - href: projects.qmd
+      - href: projects_peru.qmd
         text: Perú
-      - href: projects_NBG.qmd
+      - href: projects_nbg.qmd
         text: North Burial Ground
-      - href: projects_cnp.qmd
+      - href: projects_ckp.qmd
         text: Critical Knowledge Production
       - href: article_translations.qmd
         text: Traducciones
