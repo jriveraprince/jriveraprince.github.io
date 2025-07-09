@@ -8,11 +8,14 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/nbg_photo.jpg")
 
 <br>
 
-PIs: Dr. Jordi A. Rivera Prince (Anthropology) and Annalisa Heppner (Director, North Burial Ground)
+PIs: Dr. Jordi A. Rivera Prince (Anthropology) and Annalisa Heppner (City Cemetery Director, Providence Parks Department)
 
-Nearly 325 years of United States history can be found between North Main Street, I-95, and Branch Avenue---the City of Providence Parks Department's own North Burial Ground (NBG). However, a majority of this history is rendered inaccessible as much of the data is not in a structured format. Rather, the data is found directly on the 100,000 tombstones found across the 150 acre historic cemetery, and in some cases in handwritten records. NBG is at a key juncture in which systematic documentation of tombstones is an urgent necessity in order to preserve a significant piece of Providence's past, especially as natural processes and human action can cause destruction to the tombstones.
 
-The North Burial Ground Documentation Project is a community-engaged research project to record, digitize, and transcribe tombstones and written records at NBG. The NBG Documentation Project is a collaboration between Brown Anthropology and North Burial Ground, with connection and technical support from the Community-Engaged Data and Evaluation Collaborative (CEDEC) at Brown. Data from the North Burial Ground Documentation Project will be used to explore a variety of social issues throughout Providence's history, including changes in religious beliefs, public health and life expectancy throughout time, and investigate histories of communities typically not centered in US colonial narratives.
+## Overview 
+
+Nearly 325 years of United States history can be found between North Main Street, I-95, and Branch Avenue---the City of Providence Parks Department's own North Burial Ground (NBG). However, a majority of this history is rendered inaccessible as much of the data is not in a structured format. Rather, the data is found directly on the 100,000 tombstones found across the 114 acre historic cemetery, and in some cases in handwritten records. NBG is at a key juncture in which systematic documentation of tombstones is an urgent necessity in order to preserve a significant piece of Providence's past, especially as natural processes and human action can cause destruction to the tombstones.
+
+The North Burial Ground Documentation Project is a community-engaged research project to preserve Providence and Rhode Island history. The NBG Documentation Project is a collaboration between Brown Anthropology and North Burial Ground, with connection and technical support from the Community-Engaged Data and Evaluation Collaborative (CEDEC) at Brown. Data from the North Burial Ground Documentation Project will be used to explore a variety of social issues throughout Providence's history, including changes in religious beliefs, public health and life expectancy throughout time, and investigate histories of communities typically not centered in US colonial narratives.
 
 <br>
 
@@ -28,9 +31,11 @@ This project is supported by: the Brown University Data Science Institute [Data 
 
 -   Sofia Nuri (Environmental Science, Brown University, graduated May 2025)
 
--   Coral Gimbernard (Brown University)
+-   Fiona Matthews (History, Brown University)
 
--   Brooke Halvorsen (Anthropology, Brown University)
+-   Coral Gimbernard (Anthropology, Gender and Sexuality Studies, Brown University)
+
+-   Brooke Halvorsen (Anthropology, Human Biology, Brown University)
 
 -   Meta Covington (Anthropology, Brown University, graduated May 2025)
 
@@ -46,12 +51,15 @@ This project is supported by: the Brown University Data Science Institute [Data 
 
 <br>
 
-Casi 325 años de historia de los Estados Unidos se puede encontrar entre North Main Street, I-95 y Branch Avenue---en el North Burial Ground (NBG) del Departamento de Parques de la ciudad de Providence. Sin embargo, la mayor parte de este historial se vuelve inaccesible ya que muchos de los datos no están en un formato estructurado. Más bien, los datos se encuentran directamente en las 100.000 lápidas encontradas en el cementerio histórico de 150 acres y, en algunos casos, en registros escritos a mano. NBG se encuentra en un momento clave en el que la documentación sistemática de las lápidas es una necesidad urgente para preservar una parte importante del pasado de Providence, especialmente porque los procesos naturales y la acción humana pueden causar destrucción a las lápidas.
+Casi 325 años de historia de los Estados Unidos se puede encontrar entre North Main Street, I-95 y Branch Avenue---en el North Burial Ground (NBG) del Departamento de Parques de la ciudad de Providence. Sin embargo, la mayor parte de este historial se vuelve inaccesible ya que muchos de los datos no están en un formato estructurado. Más bien, los datos se encuentran directamente en las 100.000 lápidas encontradas en el cementerio histórico de 114 acres y, en algunos casos, en registros escritos a mano. NBG se encuentra en un momento clave en el que la documentación sistemática de las lápidas es una necesidad urgente para preservar una parte importante del pasado de Providence, especialmente porque los procesos naturales y la acción humana pueden causar destrucción a las lápidas.
 
-El Proyecto de Documentación del North Burial Ground es un proyecto de investigación en colaboración con la comunidad para registrar, digitalizar ,y transcribir lápidas y registros escritos en NBG. El Proyecto de Documentación NBG es una colaboración entre Brown Anthropology y North Burial Ground, con conexión y soporte técnico de Community-Engaged Data and Evaluation Collaborative (CEDEC) en Brown. Los datos del Proyecto de Documentación del North Burial Ground se utilizarán para explorar una variedad de cuestiones sociales a lo largo de la historia de Providence, incluidos los cambios en las creencias religiosas, la salud pública y la esperanza de vida a lo largo del tiempo, e investigar historias de comunidades que normalmente no se centran en las narrativas coloniales de los Estados Unidos.
+El Proyecto de Documentación del North Burial Ground es un proyecto de investigación en colaboración con la comunidad para preservar la historia de Providence y el estado de Rhode Island. El Proyecto de Documentación NBG es una colaboración entre Brown Anthropology y North Burial Ground, con conexión y soporte técnico de Community-Engaged Data and Evaluation Collaborative (CEDEC) en Brown. Los datos del Proyecto de Documentación del North Burial Ground se utilizarán para explorar una variedad de cuestiones sociales a lo largo de la historia de Providence, incluidos los cambios en las creencias religiosas, la salud pública y la esperanza de vida a lo largo del tiempo, e investigar historias de comunidades que normalmente no se centran en las narrativas coloniales de los Estados Unidos.
 
 <br>
 
 Este proyecto está apoyado por: Instituto de Ciencia de Datos de la Brown University Data Science \@ Brown Seed Grant
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
