@@ -2,13 +2,33 @@
 title: "Research in Perú"
 ---
 
-## **Power in the Hands of Many: A Bioarchaeological Approach to Study Social Inequality in the Ancient Andes, North Coast of Peru (400-200 cal. B.C.)**
+## Huanchaco and Fishing Communities
 
 ```{r, echo = FALSE, out.width = "1000px"}
 knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/caballito.png")
 ```
 
-Since 2017, I have worked as one of the project bioarchaeologists of the Programa Arqueológico Huanchaco (PAHUAN, PI Dr. Gabriel Prieto, University of Florida). My own research program focuses on the study of the emergence of social inequality in small-scale maritime communities in the ancient Andes. I analyzed human remains and mortuary contexts from the José Olaya - La Iglesia Site (Moche Valley, North Coast of Peru), a cemetery of a small-scale fishing community during the late Early Horizon (400-200 cal. B.C.). Although most research in this period focuses on settlement patterns and architecture analysis, more recent emphasis on domestic settings investigates inequality within groups as part of large social systems, an approach that has revealed important information on past social dynamics.
+### **Understanding how fishing communities embody and ritualize identity in the wake of political and climate instability**
+
+In collaboration with Lic. Julio Asencio Nicolás, our project Proyecto Arqueológico Huanchaco Ancestral y su Cultura Marítima (PROHACUM) seeks to understand the Salinar (ca.400-200 BCE) ane how communities ritualized the multiple sociopolitical changes that characterize this period, as well as how these communities endured an environment characterized by increasing Mega-ENSO events. Most research in this period focuses on settlement patterns and architecture analysis, and we seek to complement this knowledge with the perspective of from burials recovered from the José Olaya - La Iglesia Site (Moche Valley, North Coast of Peru), a cemetery of a small-scale fishing community during the late Early Horizon.
+
+This project is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas) and the Center for Global Antiquity Research Funds.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+En colaboración con el Lic. Julio Asencio Nicolás, nuestro Proyecto Arqueológico Huanchaco Ancestral y su Cultura Marítima (PROHACUM) intenta a comprender el Salinar (ca. 400-200 a.C.) y cómo las comunidades ritualizaron los múltiples cambios sociopolíticos que caracterizaron este período, así como cómo estas comunidades resistieron epocas de muchas cambios como el aumento de eventos de Mega-ENSO y cambios sociopoliticas. La mayor parte de la investigación en este período se centra en los patrones de asentamiento y el análisis de la arquitectura, y buscamos complementar este conocimiento con la perspectiva de los entierros recuperados del sitio José Olaya - La Iglesia (Valle de Moche, Costa Norte del Perú), un cementerio de una comunidad de pescadores durante el Horizonte Temprano tardío.
+
+Este proyecto está apoyado por: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas) y el centro por el estudio de antiquidad global fondos de investigación.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+### **Power in the Hands of Many: A Bioarchaeological Approach to Study Social Inequality in the Ancient Andes, North Coast of Peru (400-200 cal. B.C.)**
+
+Since 2017, I have worked as one of the project bioarchaeologists of the Programa Arqueológico Huanchaco (PAHUAN, PI Dr. Gabriel Prieto, University of Florida). My own research program focuses on the study of the emergence of social inequality in small-scale maritime communities in the ancient Andes.
 
 However, little is known concerning how the emergence of inequality affected peoples' daily lives in this region from the perspective of human skeletons and their burial contexts. This project documented skeletal markers of health, lifestyle, nutrition, and stress to investigate whether these traits are potential indicators of social inequality. I also examined the mortuary contexts and grave goods to understand if (and if so, how) social distinction correlates with embodied inequality within the JO-IG cemetery. By combining both bioarchaeological and mortuary evidence, I was able to conduct a more holistic study to investigate the expression of social inequality in material remains during the late Early Horizon. Importantly, this project also contributed toour anthropological understanding of the emergence of social inequality from the perspective of individuals in small-scale communities.
 
@@ -18,7 +38,7 @@ This project was supported by: The Wenner-Gren Foundation Dissertation Fieldwork
 
 <br>
 
-Desde 2017, he trabajado como una de las bioarqueólogas del proyecto del Programa Arqueológico Huanchaco (PAHUAN, PI Dr. Gabriel Prieto, University of Florida). Mi propio programa de investigación se centra en el estudio del desarrollo de la desigualdad social en comunidades pesqueras en los Andes. Analicé restos humanos y contextos funerarios del sitio arqueológico José Olaya - La Iglesia Colonial de Huanchaco (JO-IG) (Valle Moche, Costa Norte del Perú), cementerio de una comunidad de pescadores durante el Horizonte Temprano tardío (400-200 cal. a.C.). Aunque la mayor parte de la investigación en este período se centra en patrones de asentamiento y análisis de arquitectura, el énfasis más reciente en contextos domésticos investiga la desigualdad dentro de los grupos como parte de grandes sistemas sociales, un enfoque que ha revelado información importante sobre dinámicas sociales pasadas.
+Desde 2017, he trabajado como una de las bioarqueólogas del proyecto del Programa Arqueológico Huanchaco (PAHUAN, PI Dr. Gabriel Prieto, University of Florida). Mi propio programa de investigación se centra en el estudio del desarrollo de la desigualdad social en comunidades pesqueras en los Andes. Analicé restos humanos y contextos funerarios del sitio arqueológico José Olaya - La Iglesia Colonial de Huanchaco (JO-IG) (Valle Moche, Costa Norte del Perú), cementerio de una comunidad de pescadores durante el Horizonte Temprano tardío (400-200 cal. a.C.).
 
 Sin embargo, se sabe poco sobre cómo el desarrolo de la desigualdad afectó la vida cotidiana de las personas en esta región desde la perspectiva de los esqueletos humanos y sus contextos funerarios. Este proyecto documentó marcadores esqueléticos de salud, estilo de vida, nutrición y estrés para investigar si estos aspectos son indicadores potenciales de desigualdad social. También examiné los contextos funerarios y objectos relacionados con el cuerpo para comprender si (y de ser así, cómo) la distinción social se correlaciona con la desigualdad encarnada dentro del cementerio de JO-IG. Al combinar evidencia bioarqueológica y mortuoria, pude realizar un estudio más holístico para investigar la expresión de la desigualdad social en los restos materiales durante el Horizonte Temprano tardío. Es importante destacar que este proyecto también contribuyó a nuestra comprensión antropológica del surgimiento de la desigualdad social desde la perspectiva de los individuos en comunidades de pequeña escala.
 
@@ -27,7 +47,6 @@ Sin embargo, se sabe poco sobre cómo el desarrolo de la desigualdad afectó la 
 Este proyecto fue apoyado por: The Wenner-Gren Foundation Dissertation Fieldwork Grant (#10343), The U.S. Fulbright Open Research Grant (Perú), the NSF Graduate Research Fellowship (#1842473), the Ford Predoctoral Fellowship, the University of Florida International Center Research Abroad for Doctoral Students, y the University of Florida Elizabeth M. Eddy Summer New Graduate Student Research Award.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 <br>
 
