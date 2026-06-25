@@ -12,7 +12,7 @@ knitr::include_graphics("~/Documents/GitHub/jriveraprince/images/caballito.png")
 
 In collaboration with Lic. Julio Asencio Nicolás, our project Proyecto Arqueológico Huanchaco Ancestral y su Cultura Marítima (PROHACUM) seeks to understand the Salinar (ca.400-200 BCE) ane how communities ritualized the multiple sociopolitical changes that characterize this period, as well as how these communities endured an environment characterized by increasing Mega-ENSO events. Most research in this period focuses on settlement patterns and architecture analysis, and we seek to complement this knowledge with the perspective of from burials recovered from the José Olaya - La Iglesia Site (Moche Valley, North Coast of Peru), a cemetery of a small-scale fishing community during the late Early Horizon.
 
-This project is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas) and the Center for Global Antiquity Research Funds.
+This project is supported by: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas), the Brown University Center for Global Antiquity Research Funds, and [the Chrysalis Prize Finalist Funds](https://www.cromwellharborfoundation.org/about-7).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -20,7 +20,7 @@ This project is supported by: The Society for American Archaeology [H. and T. Ki
 
 En colaboración con el Lic. Julio Asencio Nicolás, nuestro Proyecto Arqueológico Huanchaco Ancestral y su Cultura Marítima (PROHACUM) intenta a comprender el Salinar (ca. 400-200 a.C.) y cómo las comunidades ritualizaron los múltiples cambios sociopolíticos que caracterizaron este período, así como cómo estas comunidades resistieron epocas de muchas cambios como el aumento de eventos de Mega-ENSO y cambios sociopoliticas. La mayor parte de la investigación en este período se centra en los patrones de asentamiento y el análisis de la arquitectura, y buscamos complementar este conocimiento con la perspectiva de los entierros recuperados del sitio José Olaya - La Iglesia (Valle de Moche, Costa Norte del Perú), un cementerio de una comunidad de pescadores durante el Horizonte Temprano tardío.
 
-Este proyecto está apoyado por: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas) y el centro por el estudio de antiquidad global fondos de investigación.
+Este proyecto está apoyado por: The Society for American Archaeology [H. and T. King Grant for Archaeology of the Ancient Americas](https://www.saa.org/career-practice/Scholarships-and-Grants/H-and-T-King-Grants-for-Archaeology-of-the-Ancient-Americas),el Brown University centro por el estudio de antiquidad global fondos de investigación, y como finalista del Chrysalis Prize.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
